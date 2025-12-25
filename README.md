@@ -1,0 +1,2 @@
+# Attack-Detect-Secure-the-Cloud-Security-Lab-on-Azure-Public
+A comprehensive Red vs. Blue Cloud Security Lab on Azure. Features network segmentation (DMZ/Internal), simulated cyberattacks (Brute Force, Web Exploitation, Lateral Movement), real-time detection using Wazuh SIEM, and infrastructure hardening.  #azure #cloud-security #wazuh #siem #cybersecurity #red-team #blue-team #ethical-hacking #linux
